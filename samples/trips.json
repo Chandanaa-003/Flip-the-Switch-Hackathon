@@ -1,0 +1,492 @@
+[
+  {
+    "id": "kyoto",
+    "label": "Kyoto · Paths of quiet wonder",
+    "destination": "Kyoto, Japan",
+    "channel": "kyoto-travel-journal",
+    "language": "en",
+    "description": "Fictional Kyoto journal · gates, bamboo and temple views",
+    "title": "Between vermilion and green",
+    "subtitle": "Three days in Kyoto, remembered one small moment at a time.",
+    "posts": [
+      {
+        "key": "kyoto-0-photo",
+        "author": "traveler",
+        "at": "2026-10-12T09:00:00+09:00",
+        "text": "We arrived at Fushimi Inari Taisha and walked beneath the vermilion gates. I kept pausing to look up.",
+        "asset": "kyoto-gates",
+        "location": {
+          "name": "Fushimi Inari Taisha, Kyoto",
+          "latitude": 34.9671,
+          "longitude": 135.7727,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-0-reply",
+        "author": "hana",
+        "at": "2026-10-12T10:15:00+09:00",
+        "text": "The red gates are the part I want to remember. Let us keep this photo.",
+        "asset": null,
+        "location": {
+          "name": "Fushimi Inari Taisha, Kyoto",
+          "latitude": 34.9671,
+          "longitude": 135.7727,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-1-photo",
+        "author": "traveler",
+        "at": "2026-10-13T09:00:00+09:00",
+        "text": "We walked through the bamboo grove in Arashiyama. We took our time and enjoyed being there together.",
+        "asset": "kyoto-bamboo",
+        "location": {
+          "name": "Arashiyama Bamboo Grove, Kyoto",
+          "latitude": 35.0094,
+          "longitude": 135.6668,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-1-reply",
+        "author": "hana",
+        "at": "2026-10-13T10:15:00+09:00",
+        "text": "The bamboo made this feel like a different side of Kyoto.",
+        "asset": null,
+        "location": {
+          "name": "Arashiyama Bamboo Grove, Kyoto",
+          "latitude": 35.0094,
+          "longitude": 135.6668,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-2-photo",
+        "author": "traveler",
+        "at": "2026-10-14T09:00:00+09:00",
+        "text": "We visited Kiyomizu-dera and looked out across Kyoto. It was our last stop before heading home.",
+        "asset": "kyoto-temple",
+        "location": {
+          "name": "Kiyomizu-dera, Kyoto",
+          "latitude": 34.9949,
+          "longitude": 135.785,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-2-reply",
+        "author": "hana",
+        "at": "2026-10-14T10:15:00+09:00",
+        "text": "I would love to come back and walk these streets again.",
+        "asset": null,
+        "location": {
+          "name": "Kiyomizu-dera, Kyoto",
+          "latitude": 34.9949,
+          "longitude": 135.785,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-extra-gion",
+        "author": "hana",
+        "at": "2026-10-12T18:00:00+09:00",
+        "text": "We walked through Gion that evening. I wanted to keep the narrow street and its old wooden facades in our journal.",
+        "asset": "kyoto-gion",
+        "location": {
+          "name": "Gion, Kyoto",
+          "latitude": 35.0031,
+          "longitude": 135.7749,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-extra-river",
+        "author": "traveler",
+        "at": "2026-10-13T16:00:00+09:00",
+        "text": "After the bamboo grove we stopped beside Togetsu-kyo Bridge. We watched the river before walking back together.",
+        "asset": "kyoto-river",
+        "location": {
+          "name": "Togetsu-kyo Bridge, Kyoto",
+          "latitude": 35.0136,
+          "longitude": 135.6776,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "kyoto-extra-hall",
+        "author": "hana",
+        "at": "2026-10-14T09:20:00+09:00",
+        "text": "Another photograph from our last stop at Kiyomizu-dera: the temple hall, framed by the trees. Please keep this view alongside the city panorama.",
+        "asset": "kyoto-hall",
+        "location": {
+          "name": "Kiyomizu-dera, Kyoto",
+          "latitude": 34.9949,
+          "longitude": 135.785,
+          "basis": "sample"
+        }
+      }
+    ]
+  },
+  {
+    "id": "paris",
+    "label": "Paris · A little time by the Seine",
+    "destination": "Paris, France",
+    "channel": "paris-travel-journal",
+    "language": "en",
+    "description": "Fictional Paris journal · river views and the Louvre",
+    "title": "A little time by the Seine",
+    "subtitle": "Two days of looking up, slowing down, and keeping the small things.",
+    "posts": [
+      {
+        "key": "paris-0-photo",
+        "author": "traveler",
+        "at": "2026-09-18T09:00:00+02:00",
+        "text": "We stopped beside the Seine to look at the Eiffel Tower. I had seen it in pictures, but wanted a photo of this moment.",
+        "asset": "paris-tower",
+        "location": {
+          "name": "Eiffel Tower and Seine, Paris",
+          "latitude": 48.8584,
+          "longitude": 2.2945,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-0-reply",
+        "author": "hana",
+        "at": "2026-09-18T10:15:00+02:00",
+        "text": "My favorite part was having no hurry to leave the river.",
+        "asset": null,
+        "location": {
+          "name": "Eiffel Tower and Seine, Paris",
+          "latitude": 48.8584,
+          "longitude": 2.2945,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-1-photo",
+        "author": "traveler",
+        "at": "2026-09-19T09:00:00+02:00",
+        "text": "We went inside the Louvre Pyramid. We took a photo looking through the glass.",
+        "asset": "paris-louvre",
+        "location": {
+          "name": "Louvre Pyramid, Paris",
+          "latitude": 48.8606,
+          "longitude": 2.3376,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-1-reply",
+        "author": "hana",
+        "at": "2026-09-19T10:15:00+02:00",
+        "text": "Let us use the river photo for the cover and keep the Louvre photo in the second chapter.",
+        "asset": null,
+        "location": {
+          "name": "Louvre Pyramid, Paris",
+          "latitude": 48.8606,
+          "longitude": 2.3376,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-extra-bridge",
+        "author": "hana",
+        "at": "2026-09-18T11:30:00+02:00",
+        "text": "We followed the Seine to Pont Alexandre III and stopped for this view of the bridge. Looking at the details became part of our walk.",
+        "asset": "paris-bridge",
+        "location": {
+          "name": "Pont Alexandre III, Paris",
+          "latitude": 48.8636,
+          "longitude": 2.3104,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-extra-montmartre",
+        "author": "traveler",
+        "at": "2026-09-18T16:00:00+02:00",
+        "text": "Later we went up to Montmartre and stood outside Sacre-Coeur. I took this photograph to remember the building against the sky.",
+        "asset": "paris-montmartre",
+        "location": {
+          "name": "Sacre-Coeur, Paris",
+          "latitude": 48.8867,
+          "longitude": 2.3431,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-extra-garden",
+        "author": "hana",
+        "at": "2026-09-19T12:00:00+02:00",
+        "text": "After the Louvre we walked through the Tuileries Garden. We found a place to pause and kept this photograph of the garden.",
+        "asset": "paris-garden",
+        "location": {
+          "name": "Tuileries Garden, Paris",
+          "latitude": 48.8635,
+          "longitude": 2.3275,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "paris-extra-notre-dame",
+        "author": "traveler",
+        "at": "2026-09-19T16:00:00+02:00",
+        "text": "We ended our walk outside Notre-Dame. This older licensed illustration stands in for the facade in our fictional travel journal; it is not a photograph taken on our sample travel date.",
+        "asset": "paris-notre-dame",
+        "location": {
+          "name": "Notre-Dame, Paris",
+          "latitude": 48.853,
+          "longitude": 2.3499,
+          "basis": "sample"
+        }
+      }
+    ]
+  },
+  {
+    "id": "new-york",
+    "label": "New York · The city, at our pace",
+    "destination": "New York, United States",
+    "channel": "new-york-travel-journal",
+    "language": "en",
+    "description": "Fictional New York journal · Brooklyn Bridge and Central Park",
+    "title": "The city, at our pace",
+    "subtitle": "From the bridge to the park, two days of finding our own New York.",
+    "posts": [
+      {
+        "key": "new-york-0-photo",
+        "author": "traveler",
+        "at": "2026-08-22T09:00:00-04:00",
+        "text": "We walked onto Brooklyn Bridge and stopped to look at the Manhattan skyline. This is the photo I wanted to bring home.",
+        "asset": "new-york-bridge",
+        "location": {
+          "name": "Brooklyn Bridge, New York",
+          "latitude": 40.7061,
+          "longitude": -73.9969,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-0-reply",
+        "author": "hana",
+        "at": "2026-08-22T10:15:00-04:00",
+        "text": "The bridge is my favorite memory of our first day.",
+        "asset": null,
+        "location": {
+          "name": "Brooklyn Bridge, New York",
+          "latitude": 40.7061,
+          "longitude": -73.9969,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-1-photo",
+        "author": "traveler",
+        "at": "2026-08-23T09:00:00-04:00",
+        "text": "We spent our second day in Central Park and took a photo beside the lake.",
+        "asset": "new-york-park",
+        "location": {
+          "name": "Central Park, New York",
+          "latitude": 40.774,
+          "longitude": -73.971,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-1-reply",
+        "author": "hana",
+        "at": "2026-08-23T10:15:00-04:00",
+        "text": "It felt good to slow down after our walk across the bridge.",
+        "asset": null,
+        "location": {
+          "name": "Central Park, New York",
+          "latitude": 40.774,
+          "longitude": -73.971,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-extra-dumbo",
+        "author": "hana",
+        "at": "2026-08-22T12:00:00-04:00",
+        "text": "We walked through DUMBO and saw Manhattan Bridge framed by the buildings on Washington Street. Another angle on a city full of bridges.",
+        "asset": "new-york-dumbo",
+        "location": {
+          "name": "Washington Street, DUMBO, New York",
+          "latitude": 40.7033,
+          "longitude": -73.9896,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-extra-square",
+        "author": "traveler",
+        "at": "2026-08-22T18:00:00-04:00",
+        "text": "We reached Times Square later in the day. The signs and yellow taxis filled the view; this photograph belongs with our first day in the city.",
+        "asset": "new-york-square",
+        "location": {
+          "name": "Times Square, New York",
+          "latitude": 40.758,
+          "longitude": -73.9855,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-extra-terrace",
+        "author": "hana",
+        "at": "2026-08-23T11:00:00-04:00",
+        "text": "Still in Central Park, we stopped at Bethesda Terrace. I wanted to keep the stonework as well as the photograph beside the lake.",
+        "asset": "new-york-terrace",
+        "location": {
+          "name": "Bethesda Terrace, New York",
+          "latitude": 40.7736,
+          "longitude": -73.9711,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "new-york-extra-terminal",
+        "author": "traveler",
+        "at": "2026-08-23T16:00:00-04:00",
+        "text": "Our last photograph is from inside Grand Central Terminal. We paused in the concourse before leaving, looking up one more time.",
+        "asset": "new-york-terminal",
+        "location": {
+          "name": "Grand Central Terminal, New York",
+          "latitude": 40.7527,
+          "longitude": -73.9772,
+          "basis": "sample"
+        }
+      }
+    ]
+  },
+  {
+    "id": "santorini",
+    "label": "Santorini · Aegean days",
+    "destination": "Santorini, Greece",
+    "channel": "santorini-travel-journal",
+    "language": "en",
+    "description": "Fictional Santorini journal · white villages, volcanic beaches and the Aegean Sea",
+    "title": "Where the island meets the blue",
+    "subtitle": "Three days of sea views, village walks and moments worth keeping.",
+    "posts": [
+      {
+        "key": "santorini-oia",
+        "author": "traveler",
+        "at": "2026-06-08T09:00:00+03:00",
+        "text": "We arrived in Oia and stopped to look at the white buildings above the Aegean Sea. This was the first photograph I wanted to keep.",
+        "asset": "santorini-oia",
+        "location": {
+          "name": "Oia, Santorini",
+          "latitude": 36.4614,
+          "longitude": 25.3747,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-harbour",
+        "author": "hana",
+        "at": "2026-06-08T16:00:00+03:00",
+        "text": "We went down to Ammoudi Bay and took a photograph of the harbour beneath the cliffs. I liked seeing the village from this different angle.",
+        "asset": "santorini-harbour",
+        "location": {
+          "name": "Ammoudi Bay, Santorini",
+          "latitude": 36.4606,
+          "longitude": 25.3696,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-caldera",
+        "author": "traveler",
+        "at": "2026-06-09T10:00:00+03:00",
+        "text": "We paused above the caldera in Fira. We had no hurry to leave the sea view.",
+        "asset": "santorini-caldera",
+        "location": {
+          "name": "Fira caldera, Santorini",
+          "latitude": 36.417,
+          "longitude": 25.431,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-beach",
+        "author": "hana",
+        "at": "2026-06-09T18:00:00+03:00",
+        "text": "Later we walked beside Perissa Beach. We watched the sea and kept this photograph of the shoreline.",
+        "asset": "santorini-beach",
+        "location": {
+          "name": "Perissa Beach, Santorini",
+          "latitude": 36.3561,
+          "longitude": 25.4754,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-red-beach",
+        "author": "traveler",
+        "at": "2026-06-10T10:00:00+03:00",
+        "text": "On our last day we looked across Red Beach from the viewpoint. The red cliffs and blue water belong together in our album.",
+        "asset": "santorini-red-beach",
+        "location": {
+          "name": "Red Beach viewpoint, Santorini",
+          "latitude": 36.3473,
+          "longitude": 25.3947,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-sunset",
+        "author": "hana",
+        "at": "2026-06-10T19:00:00+03:00",
+        "text": "We ended the trip watching the sunset over the sea. I would love to come back and take our time here again.",
+        "asset": "santorini-sunset",
+        "location": {
+          "name": "Santorini sunset viewpoint",
+          "latitude": 36.4614,
+          "longitude": 25.3747,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-reply-8",
+        "author": "hana",
+        "at": "2026-06-08T20:00:00+03:00",
+        "text": "The sea is the thread I want to follow through this book.",
+        "asset": null,
+        "location": {
+          "name": "Oia, Santorini",
+          "latitude": 36.4614,
+          "longitude": 25.3747,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-reply-9",
+        "author": "traveler",
+        "at": "2026-06-09T20:00:00+03:00",
+        "text": "Please keep the village views and the beach photographs together.",
+        "asset": null,
+        "location": {
+          "name": "Fira caldera, Santorini",
+          "latitude": 36.417,
+          "longitude": 25.431,
+          "basis": "sample"
+        }
+      },
+      {
+        "key": "santorini-reply-10",
+        "author": "hana",
+        "at": "2026-06-10T20:00:00+03:00",
+        "text": "Three days, six photographs, and so many reasons to return.",
+        "asset": null,
+        "location": {
+          "name": "Santorini sunset viewpoint",
+          "latitude": 36.4614,
+          "longitude": 25.3747,
+          "basis": "sample"
+        }
+      }
+    ]
+  }
+]

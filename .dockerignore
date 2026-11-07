@@ -1,0 +1,10 @@
+.git
+.runtime
+.venv
+.env
+.env.*
+.mw-setup-*
+release
+dist
+node_modules
+__pycache__

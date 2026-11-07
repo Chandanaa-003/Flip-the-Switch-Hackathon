@@ -1,0 +1,218 @@
+[
+  {
+    "id": "santorini-oia",
+    "url": "/static/assets/santorini-oia.jpg",
+    "label": "Blue Domed Church - Oia, Santorini, Greece - 20 July 2008.jpg",
+    "sample": true,
+    "credit": "George M. Groutas · CC BY 2.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Blue%20Domed%20Church%20-%20Oia%2C%20Santorini%2C%20Greece%20-%2020%20July%202008.jpg",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  {
+    "id": "santorini-harbour",
+    "url": "/static/assets/santorini-harbour.jpg",
+    "label": "Santorini, Oia 01.jpg",
+    "sample": true,
+    "credit": "LBM1948 · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Santorini%2C%20Oia%2001.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "santorini-caldera",
+    "url": "/static/assets/santorini-caldera.jpg",
+    "label": "Views of the caldera from Fira, 226497.jpg",
+    "sample": true,
+    "credit": "Zde · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Views%20of%20the%20caldera%20from%20Fira%2C%20226497.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "santorini-beach",
+    "url": "/static/assets/santorini-beach.jpg",
+    "label": "Perissa Beach and Mésa Vounó at sunset, May 2024.jpg",
+    "sample": true,
+    "credit": "PCN02WPS · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Perissa%20Beach%20and%20M%C3%A9sa%20Voun%C3%B3%20at%20sunset%2C%20May%202024.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "santorini-red-beach",
+    "url": "/static/assets/santorini-red-beach.jpg",
+    "label": "Red Beach in Santorini.jpg",
+    "sample": true,
+    "credit": "Anthony Baratier · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Red%20Beach%20in%20Santorini.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "santorini-sunset",
+    "url": "/static/assets/santorini-sunset.jpg",
+    "label": "Santorini Sunset.jpg",
+    "sample": true,
+    "credit": "SofiaGMussolin · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Santorini%20Sunset.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "kyoto-river",
+    "url": "/static/assets/kyoto-river.jpg",
+    "label": "Togetsu-kyō bridge at golden hour, Kyoto, Japan.jpg",
+    "sample": true,
+    "credit": "Basile Morin · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Togetsu-ky%C5%8D%20bridge%20at%20golden%20hour%2C%20Kyoto%2C%20Japan.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "kyoto-gion",
+    "url": "/static/assets/kyoto-gion.jpg",
+    "label": "A view of Gion corner in Geisha district, Kyoto, Japan.jpg",
+    "sample": true,
+    "credit": "Joli Rumi · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A%20view%20of%20Gion%20corner%20in%20Geisha%20district%2C%20Kyoto%2C%20Japan.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "kyoto-hall",
+    "url": "/static/assets/kyoto-hall.jpg",
+    "label": "JAP Kyoto Kiyomizu-dera.jpg",
+    "sample": true,
+    "credit": "Grueslayer @Wikipedia · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:JAP%20Kyoto%20Kiyomizu-dera.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "paris-bridge",
+    "url": "/static/assets/paris-bridge.jpg",
+    "label": "The Pont Alexandre III Paris.jpg",
+    "sample": true,
+    "credit": "Martin Davison / EUtouring.com · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The%20Pont%20Alexandre%20III%20Paris.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "paris-montmartre",
+    "url": "/static/assets/paris-montmartre.jpg",
+    "label": "Paris-Sacré-Cœur-106-2017-gje.jpg",
+    "sample": true,
+    "credit": "Gerd Eichmann · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris-Sacr%C3%A9-C%C5%93ur-106-2017-gje.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "paris-garden",
+    "url": "/static/assets/paris-garden.jpg",
+    "label": "Paris-Tuileries-110-2017-gje.jpg",
+    "sample": true,
+    "credit": "Gerd Eichmann · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paris-Tuileries-110-2017-gje.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "paris-notre-dame",
+    "url": "/static/assets/paris-notre-dame.jpg",
+    "label": "Notre-dame-de-paris.jpg",
+    "sample": true,
+    "credit": "Nicolas barthe · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Notre-dame-de-paris.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "new-york-square",
+    "url": "/static/assets/new-york-square.jpg",
+    "label": "The iconic Times square.jpg",
+    "sample": true,
+    "credit": "Henrybermudez1 · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The%20iconic%20Times%20square.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "new-york-terminal",
+    "url": "/static/assets/new-york-terminal.jpg",
+    "label": "Grand Central Terminal, New York.jpg",
+    "sample": true,
+    "credit": "Clément Bardot · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Grand%20Central%20Terminal%2C%20New%20York.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "new-york-terrace",
+    "url": "/static/assets/new-york-terrace.jpg",
+    "label": "Bethesda Terrace.jpg",
+    "sample": true,
+    "credit": "Jon McIntosh · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bethesda%20Terrace.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "new-york-dumbo",
+    "url": "/static/assets/new-york-dumbo.jpg",
+    "label": "Dumbo.jpg",
+    "sample": true,
+    "credit": "Lingzhong93 · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dumbo.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "kyoto-gates",
+    "url": "/static/assets/kyoto-gates.jpg",
+    "label": "Fushimi Inari Taisha Torii entrance.jpg",
+    "sample": true,
+    "credit": "Immanuelle · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fushimi%20Inari%20Taisha%20Torii%20entrance.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "kyoto-bamboo",
+    "url": "/static/assets/kyoto-bamboo.jpg",
+    "label": "Bamboo Grove, Arashiyama, Kyoto, Japan.jpg",
+    "sample": true,
+    "credit": "Basile Morin · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bamboo%20Grove%2C%20Arashiyama%2C%20Kyoto%2C%20Japan.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "kyoto-temple",
+    "url": "/static/assets/kyoto-temple.jpg",
+    "label": "Kyoto from Kiyomizu-Dera.jpg",
+    "sample": true,
+    "credit": "Ray in Manila · CC BY 2.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kyoto%20from%20Kiyomizu-Dera.jpg",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  {
+    "id": "paris-tower",
+    "url": "/static/assets/paris-tower.jpg",
+    "label": "The Eiffel Tower from the Seine.jpg",
+    "sample": true,
+    "credit": "DiscoA340 · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The%20Eiffel%20Tower%20from%20the%20Seine.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "paris-louvre",
+    "url": "/static/assets/paris-louvre.jpg",
+    "label": "Inside the Louvre Pyramid July 2025.jpg",
+    "sample": true,
+    "credit": "Dmarcovitz · CC0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Inside%20the%20Louvre%20Pyramid%20July%202025.jpg",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "new-york-bridge",
+    "url": "/static/assets/new-york-bridge.jpg",
+    "label": "NYC Skyline Brooklyn Bridge.jpg",
+    "sample": true,
+    "credit": "NYC Guru · CC BY-SA 4.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:NYC%20Skyline%20Brooklyn%20Bridge.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "new-york-park",
+    "url": "/static/assets/new-york-park.jpg",
+    "label": "Central Park - The Lake panorama (New York) (31368593058).jpg",
+    "sample": true,
+    "credit": "VillageHero · CC BY-SA 2.0 · resized, metadata removed",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Central%20Park%20-%20The%20Lake%20panorama%20%28New%20York%29%20%2831368593058%29.jpg",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+  }
+]
